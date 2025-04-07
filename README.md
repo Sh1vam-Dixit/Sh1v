@@ -1,4 +1,4 @@
-# Sh1v
+# Excel
 <h1 align="center">Hi 👋, I'm Shivam Dixit</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
